@@ -1,0 +1,26 @@
+.header{
+  background-color: rgba(137, 43, 226, 0.296);
+  color:white;
+  padding: 0.75rem;
+  display: flex;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.titleLogo{
+  display: inline-flex;
+  align-items: center;
+  letter-spacing: 0.2rem;
+  gap: 1rem;
+  text-shadow: 1px 1px 2px black;
+}
+
+.logo{
+  border-radius: 10px;
+}
+
+.titleLogo span{
+  color: purple;
+  font-weight: 900;
+  font-size: 1.7rem;
+}
